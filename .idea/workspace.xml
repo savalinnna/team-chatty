@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fde24bbf-9d38-4521-ae46-b2c330e1fbda" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Chatty/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/.idea/Chatty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/auth_service/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/auth_service/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/auth_service/alembic/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/auth_service/alembic/versions/1d8eaa684b7d_create_users_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/auth_service/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/auth_service/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/auth_service/docker-entrypoint.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/auth_service/routers/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/auth_service/routers/users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/auth_service/schemas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/post_service/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/post_service/alembic/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/post_service/alembic/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/post_service/alembic/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/post_service/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/subscription_service/alembic/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/subscription_service/alembic/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatty/subscription_service/routers/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/alembic/README" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/auth_service/alembic/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/alembic/env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/alembic/script.py.mako" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/auth_service/alembic/script.py.mako" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/app/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/app/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/app/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/app/db_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/app/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/app/posts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/app/schemas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/app/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/app/utils/security.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/auth_service/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/auth_service/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/auth_service/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/auth_service/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/auth_service/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/auth_service/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/auth_service/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/auth_service/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/auth_service/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/auth_service/utils/security.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/auth_service/utils/security.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/post_service/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/post_service/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/post_service/crud.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/post_service/crud.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/post_service/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/post_service/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/post_service/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/post_service/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/post_service/posts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/post_service/posts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/post_service/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/post_service/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/post_service/routers/posts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/post_service/routers/posts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/subscription_service/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/subscription_service/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/subscription_service/alembic/versions/c5790c72db61_initial_migration.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/subscription_service/alembic/versions/c5790c72db61_initial_migration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/subscription_service/deps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/subscription_service/deps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/subscription_service/docker-entrypoint.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/subscription_service/docker-entrypoint.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/subscription_service/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/subscription_service/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chatty/subscription_service/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chatty/subscription_service/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Chatty" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2vXASyIsds99meoQYpOmr3cyPfN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "18-s2-4-subscription-service-создать-микросервис-subscription-подписка-лента",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fde24bbf-9d38-4521-ae46-b2c330e1fbda" name="Changes" comment="" />
+      <created>1744281049250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744281049250</updated>
+      <workItem from="1744281051868" duration="575000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
